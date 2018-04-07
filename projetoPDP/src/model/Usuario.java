@@ -1,5 +1,5 @@
 package model;
-//comentario
+
 public class Usuario {
 	
 	private String cfp;
